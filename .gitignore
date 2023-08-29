@@ -9,4 +9,9 @@ libquirc.so*
 .*.swp
 *~
 .DS_Store
-.idea
+.ideabuild/
+**/build/
+cython/py_quirc.c
+lib/*.a
+lib/*.o
+cython/py_quirc.so
